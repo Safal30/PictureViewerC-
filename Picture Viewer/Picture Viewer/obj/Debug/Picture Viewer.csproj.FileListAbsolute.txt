@@ -1,0 +1,20 @@
+D:\WORKSPACE\Workspace for C#\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+D:\WORKSPACE\Workspace for C#\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe
+D:\WORKSPACE\Workspace for C#\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.pdb
+D:\WORKSPACE\Workspace for C#\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csprojResolveAssemblyReference.cache
+D:\WORKSPACE\Workspace for C#\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Form1.resources
+D:\WORKSPACE\Workspace for C#\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Properties.Resources.resources
+D:\WORKSPACE\Workspace for C#\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csproj.GenerateResource.Cache
+D:\WORKSPACE\Workspace for C#\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\Workspace for C#\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.exe
+D:\WORKSPACE\Workspace for C#\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.pdb
+D:\WORKSPACE\C#\Coded by Me\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+D:\WORKSPACE\C#\Coded by Me\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe
+D:\WORKSPACE\C#\Coded by Me\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.pdb
+D:\WORKSPACE\C#\Coded by Me\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csprojResolveAssemblyReference.cache
+D:\WORKSPACE\C#\Coded by Me\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Form1.resources
+D:\WORKSPACE\C#\Coded by Me\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Properties.Resources.resources
+D:\WORKSPACE\C#\Coded by Me\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csproj.GenerateResource.cache
+D:\WORKSPACE\C#\Coded by Me\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\C#\Coded by Me\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.exe
+D:\WORKSPACE\C#\Coded by Me\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.pdb
